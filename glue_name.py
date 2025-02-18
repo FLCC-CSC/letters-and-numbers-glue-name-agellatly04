@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Andrew Gellatly 
+# DATE: 2/182025
+# BRIEF DESCRIPTION:  A program that asks the user for there first and last name, then displays a "Hi" followed by the user's name 
 
 
 
@@ -12,19 +12,12 @@
 # 4. You can see the Sample Output below, too
 
 
-
-
-
 ########## ENTER YER CODE BELOW THIS LINE ##########
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
+first = (input("Enter first name: "))
+last = (input("Enter last name: "))
+
+print(f'Hi, {first} {last}')
     
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -77,7 +70,7 @@ Hi, Lisa Simpson, esquire
    your response to Python. It might be a lesson in time management, a lesson
    using CodeGrade, or something else.
 
-
+I learned the f-string command can be very useful for formatting messages that require variables.
 
 
 
