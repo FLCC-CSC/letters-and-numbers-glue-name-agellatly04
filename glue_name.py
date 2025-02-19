@@ -1,5 +1,5 @@
 # FILE NAME - glue_name.py
-
+# DRG - Rerun for points 2025-02-18-2348
 # NAME: Andrew Gellatly 
 # DATE: 2/182025
 # BRIEF DESCRIPTION:  A program that asks the user for there first and last name, then displays a "Hi" followed by the user's name 
